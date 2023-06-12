@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Jekyll Self-Publishing
 description: A site to self-publish a blog, multiple stories/books, etc.
 baseurl: /jekyll-self-publish
+
+exclude: ['README.md', 'docs']
